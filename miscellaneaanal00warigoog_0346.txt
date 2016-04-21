@@ -1,0 +1,45 @@
+Anoaunn1cm ιῳ
+
+quatuor radices datae aquationis erunt impossibiles: livero duae ra-
+dices cubicae srnt impossibiles, tum duae radices biquadraticae etiam
+erunt impoffibiles, duae vero possrbiles.
+
+Cor. Data generali reduslione aquationum, hinc constabit me·
+rhodus inveniendi, quot impossibiles radices habet data aequatio3 sr
+modo enim reducatur, necesse est, ut transformetur in aequationem
+quoad formulam minores dimensiones habentem, data aequatio: data
+autem relatio inter radices datae bc transformatae aequationis semper
+exprimitur per aequationes quoad formulas earum minores quam da·
+tae aequationis dimensiones habentes, ergo e numero earum impoffibi-‘
+lium radicum. constat numerus impoffibiliunr radicum in data aequa·
+
+tione contentarum.
+
+SCHOL.
+
+Modus demonstrandi maxime accommodatus hisce rebus, ubi
+quaeritur, quot radices impossibiles continentur in data aequatione?
+est vel substituere quantitates ipsas pro suis valoribus 3 vel multipli-
+care datam aequationem 1⁰²⁰ perx - a = 03 deinde per x² - zax -ι-
+a² -l- b² = 03 cum enirn prior aequatio unicam radicem habeat, eam·
+que possibilem 3 posterior autem duas impossibiles 3 manifestum cst
+eundem futurum else numerum radicum impossibilium in aquatione,
+quae oritur e priori multiplicatione, ac in dard aequatione: aequatio
+ι autern, quae oritur e secunda multiplicatione duas habebit radices
+impollrbiles, quae in data aequatione non continentur.
+
+Ex. Sit data aequatiox2- ax 4- 2 = o, quae secundum regulam in
+prob. 9. exempr. traditam duas habet radices impoffibiles3 multipli-
+cetur per x 4- 2 == o, δε fit xl - ax -l- 4 = o, quae secundum eandem
+regulam nullas habet radices impossibiles, debet autern habere duas 3
+regula igitur non semper accurata est.
+
+Modus autem demonstrationis, de quo loquor, non huic quaestioni
+solummodo proprius est3 sed commode adhiberi potest, ubicunque
+quaeritur, quot quantitates dati cujusvis generis in datia aequatione
+continentur?
+
+Ex. a.
+
+ 
+

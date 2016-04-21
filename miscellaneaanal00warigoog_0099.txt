@@ -1,0 +1,57 @@
+nunrrrtca ῃ
+
+quatuor possuntesse diametri, de fi quatuor sunt diametri, angulum
+inter se faciunt 4 5⁰ graduum. ’
+Duae possunt esse etiam solummodo diametis; sed haec restridiio
+
+oritur e terminis duarum dimensionum abscissae de ordinatae.
+In genere, sint curvae (n) dimensionum, quae (n) habent diametros,
+
+de fi mod'o sint (n) diametri, anguli, quos hae diametri inter se faci-
+unt, erunt 1·8n-0··
+
+¹ si modo (n) est primus numerus, tum habet unam vel (n) vel nul-
+lam diametrum omnis hujusmodi curva: &curva imparium dimensi·
+num non potest habere parem diametrorum numerum.
+
+Constat methodus omnia hujus generis inveniendi.
+
+Haec facile demonstrari possunt egeometricis principiis.
+
+Hinc constat, si curva duas vel plures habet diametros, tum. ¹
+generale habet centrum.
+
+Hinc etiam constat, si ducantur per centrum lineae aequales angu-
+los primo, tertio, quinto dcc. arefacientes, tum hae diametri aequases ,
+angulos cuin suis ordinatis faciunt.
+
+Primus, tertius, quintus &e axes erunt inter se aequales.
+
+Eodem mod0, quo inveniuntur axes, deduci possunt diametri ea·
+rum ordinatas ad datum angulum secantes, de fic deinceps.
+
+CO ROLLARIUM X.
+
+· Sunt curvae (n) dimensionum, quae secare possunt redsam lineam·
+iri (n) pundiis3 sunt etiam curvae (ziz) parium dimensionum, quae nus-
+sam intersecant rediam lineam in pluribus quam (2) punt'tis, dr im-
+parium dimensionum, quae nullam intersecant tesiam lineam 'm plu·
+ribus quam (3) pundis3 sed observandum est, ut par erit maximus
+numerus pundsorum, in quibus redsa linea secare potest curvam pa-
+rium dimensionum, de impar, imparium dimensionum.
+
+COROLLARIUM XI. ⁸
+sit curva M m M, cujus aequatio relationem inter abscissam (A P) fig, 7·
+
+de ejus correspondentes ⁰rdffl (PM) expsiQst’
+
+, Ay·÷a-i-bxy'·¹÷e‘-i3‘dx÷ex²y⁸·⁸÷&c.=0.
+sint termini, inquibus maximae inveniuntur dimensiones incognita·
+
+rum quantitatum (y de si)
+
+Ay⁸÷bxy'·'÷ex²y'· ’
+Κ 2
+
+ 
+

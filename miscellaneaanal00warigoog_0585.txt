@@ -1,0 +1,50 @@
+'ALGEBRAICAE. 39
+
+inveniantur differentiae, ita nt exterminentur quantitates a ὅσ x, δε
+ultima resultansrlifferentia erit· 1 . 2 ‘3 . 4.5 ...(mn-'·n) ; sed quo-
+niani omnes >quantitates resultantes sunt divisibiles per p, ergo omnes
+earum differentiae, δε consequenter ultima praedista r . 2 . 3 ,4 . .. (mn
+
+-n); sed hoe. contentum· non divisibile est per mn -t- 1; ergo poste·
+
+rior failor. non est semper divisibilis perp, ic consequenter datur ω ¹ .
+
+sus, in quo effi- v' divifibilis erit per p.
+
+T H E 0 R. Llll.
+
+¹ ’ r. Sint resrdua edivisrone numerorum A, Β, C, &n per numerum
+2 ἀτεῑρεᾶἱνεα,β,γ,ὅις., i.e.s1ntA=ha-l-a, B=ka÷sl C:
+la -ι- γ, &c; ubi h, k, l, &o sunt integri numeri; turn resrduum e
+
+< divifionenumeriAxBxCx&c.=(ha÷a)x(ta÷u)x(la-r-y) . ’
+
+x &o per a idem erit ac residuum e divisione numeri a x β x y x &o
+
+er a. ·
+P 2. Et vice versi lint resrdua e divisione numerorum A δι A x B
+
+per a respeslive a &o ακβ, ubi a stt primus ad numerum ας turn
+residuum e divisione numeri Β pera erit β. Sint eninr resrdua e di·
+visione numerorum A &B per a respeilive a δε γ; tum erit a x y re.
+
+srduum e divisione produiti A xB per ας sed per hypothesm hoc re- ’ · ¹
+
+fiduumeritaxuergoaxy=mxa÷oeuundev=zf÷ursed32 ²
+
+’ quoniam a δι a sunt inter se primi numeri, δι [gest integer nume·—
+rus, erit a divisor quantitatis m, ergo residuum y: β.·
+
+Cor. 1. Sint resrdua ex divisione numerorum‚A,'B, C, &n per. nv
+respeslive 1, turn residuum ex divisione contenti A x Β x Cr< &o per · ·
+n erit 1.
+
+Cor. 2. Sit q primus numerus, ὅσ α’ per primum numerum p divi· -
+sus relinquat unitatem tum aq eritminima poteslas vquantitatis a, .
+quae per p divisa relinquit unitatem ni numerus a per p divisus re·
+linquit unitatem. sienim at haud fit minima potestas,¹ fit v'rminima ,
+
+· ’ potestas-
+
+ 
+

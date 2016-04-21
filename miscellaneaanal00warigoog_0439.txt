@@ -1,0 +1,49 @@
+ALGEBRAICAE. 211
+
+R÷ Sx -i- Ἱιι2 xy·'‘'·² -Ι- uc: o, respec‘live ; fiant aquationes re·
+sultantes inter se aequales, dc ita capiantur coefficientes assumptarum
+aequationum ut evanescant omnes termini resultantis aequationis; iis
+exceptis, in quibus solummodo inveniuntur incognita quantitas (y),
+&ejus potestates. '
+
+Hoc perficitur simplicium aequationum ope.
+
+⁸ Semper tot vel plures invenientur incognitae quantitates, quot rc·
+sultant simplices aquationes.
+
+6. 2. N (h )¹¹ denotet numerum terminorum in algebraicd aequati-
+one n dimensionum, quae continet (h) incognitas quantitates (x, y,
+zmuw&m
+
+-. n-l-2 '¹43 n÷h
+
+1. Eritpertheor. nost. N(h) =n÷i ..7- Τ -b-
+
+2. Numerus terminorum aequationis(n n) dimensionum, qui divi·
+sibiles sunt per xv, idem erit ac numerus terminorum aequationis di-
+
+mensionum (n-p)› i. e. per praecedentem notationem = N (h )·-t;
+hinc numerus terminorum in praedittt aequatione dimensionum (n)
+
+divisibilum vel perx’ vel y« velz, vel v velo, dcc. eiit=
+÷N(h)r·⁹-N(l Ν) ’ΜΝ-Ν 6··)”·Μ ‘li-N( Ν) --w ‘'j-emt·-
+÷Ns h)···⁴-N( 6”·-”)’ ÷Ns 6)·”·”’ -Ν( 6)·
+Ν( ·¹·l²')''·- Ν( 6)”“·ρ ÷Ns 6) ''⁶⁹‘'
+Ν( -Ι-6”““’)- Ν( h)¹·⁹·÷N ( 6”“’”’)““
+’.διο &c &c
+
+· 3 Sint duae aquationes (n dc m) dimensionum duas incognitas
+quantitates (x dc y) habentes; ducantui· hae aequationes respestive in
+duas aquationes (nm- n dc nro-m) dimensionum (viz A=o dc
+
+B=o) praed'idtas incognitas quantitates (x dc y) habentes; tum eir-
+utraique multiplicatione resultat aquatio dimensionum (nx m): fiant
+
+omues termini correspondentes duarum resultantium aequationum·
+inter se aequales, iis exceptis, in quibus solummodo inveniuntur in-
+
+cognita quantitas (y) & ejus potestates: numerus horum terminorum
+D d 2 erit
+
+ 
+

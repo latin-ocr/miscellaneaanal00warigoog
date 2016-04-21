@@ -1,0 +1,42 @@
+228 M'EDlTATlONES
+
+a. Si vero per aquationes quascunque datas, inter radices incog-
+nitarum datarum aquationum quantitatum &quascunque assumptas
+incognitas quantitates exprimatur relatio: tum assumantur radices
+incognitarum quantitatum datarum aquationum tanquam cognitae,
+u exinde inveniantur singulae diversae aequationes relationem expri-
+mentes3 multiplicentur omnes valores ex fingulis hisce aquationibus
+continuo respestive in se invicem t st pcr duo problemata praece-
+denta inveniantur aggregata harum aquationum resultantium, quae
+minime diversas ejusdem incognitae quantitatis radices contineant 3
+hacc aggregata erunt aequationes quaesrtae.
+
+Cor. r. Sint tres vel plures aquationes tres vel plures incognitas
+quantitates habentes, eodem modo inveniri possunt aquationes,
+quarum radices quamcunque habeant algebraicam relationem ad ra· ,
+dices datarum aequationum.
+
+Cor. 2. si relatio inter incognitas datarum sc quaesrtarum aequatio-
+num quantitates, solummodo correspondentes valores incognitarum
+quantitatum involvat; tum semper inveniri pollunt quaesitae aequa-
+. tiones e redusiione plurium aquationum in unanr, itaut incognitas
+quantitates exterminentur. ·
+
+THEOR. XXX.
+
+Duae vel tres vel plures aquationes A = o, B= o, C = 0, D = ο,
+sec. duas vel tres, &c incognitas quantitates (x, y, z, &c ) involvant,
+erearum additione, subdusiione, multiplicatione, dcc. in rationales
+quantitates conficiatur aequatio Z=o, ubi (Z) aggregatum est e
+compluribus poffibilibus quadratis, i. e. Z = Ρ2 -t- 92² -l- R² ÷ stc,
+& P, Q R, &a respestive denotant rationales funsliones quantitatum
+(x, y, z, &c.); turn haud continentur correspondentes pollibiles va,- ,
+lores e singulis quantitatibus (x, y, z, sce.) in datis aquationibus
+A=o‚ B=o, C=o, D=0, &ca ni aequationes P=o, εῖτ-ο,
+R = o, &c habeant correspondentes valores e fingulis incognitis
+quantitatibus (x, y, z, &c.), qui etiam erunt correspondentes valores·
+
+prae-
+
+ 
+

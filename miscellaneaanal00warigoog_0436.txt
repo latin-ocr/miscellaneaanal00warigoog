@@ -1,0 +1,49 @@
+ms Mastrarrouns
+
+4. a. Hac methodus etiam applicari potest ad tres vel piures (b)
+aquationes totidem incognitas quantitates habentes.
+
+Facile eninr constat ex his duabus observationibus numerus dimen-
+fionum, quas habere debet incognita quantitas, i. e. radix in affump·
+tis aequationibus: nempe quod singula aequatio in suam correspon-
+dentem aequationem ass‘umptam duc‘ta semper easdem conficient di·
+menstones; dc quod dimensiones aequationum affumptarum stmulque
+adjectarum aequales vel proxime majores erunt quam differentia in-
+ter praedictam summam ἃ numerum (b- r) datarum aequationum
+unitate diminutum.
+
+In hoc enim casu tot vel plures erunt incognita quantitates in as·
+sumptis aquationibus, quot resultant fimplices aequationes.
+
+5. Est etiam alia methodus transformandi duas aequationes iu unam,
+ita ut incognita quantitas exterminetur.
+
+Per methodum serierum infinitarum inveniantur singulae radices
+incognitae quantitatis exterminanda in und data aequatione, quibus
+pro suo valore in alteri substitutis, δι contento ex quantitatibus re·
+saltantibus in sese multiplicatis nihilo equale suppos1t03 resultat
+
+quaesrta aequatio.
+Ex. sint duae aquationes γ’ - {H} xy -t- 3x² ÷ 4x ÷ 4 =o
+&y2-3xy ÷4x² ÷6=0
+eas in unam transformare, ita ut exterminetur incognita quantitas
+
+(yincognitae quantitatis (y) duae radices in priori aquatione per in·
+finitas series inveniuntur, viz.
+
+.3.
+ax
+
+y=3x4¹'''2'3'2}''8‘9x‘3”&⁶·
+
+÷ff÷m
+
+y=x÷t÷
+
+quibus radicibus pro (y) in posteriori aequatione substitutis, resultant
+
+quantitates
+2x²
+
+ 
+

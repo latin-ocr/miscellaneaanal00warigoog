@@ -1,0 +1,54 @@
+ANALYTlcn 79
+
+. si ordinatae partim sunt possibiles tc partim impossrbiles utrinque,
+tum singula utrinque numerum aequalium radicum unitate auget, fi
+itero ordinata tangit curvam, tum auget numerum aequalium ordina-
+
+tarum per duo, δι stc de punstis contrariae flexura, cuspidibus.
+si plures sunt ordinata: aequales, quam requirit figura, tum datur
+
+punitum ad curvam.
+Si duo 'vel plures ordinatae valores bis fiunt aequales, & quarum Pin&
+
+absciffae respestive sunt PA ἃ ΡᾸ, & intereas srnt ordinatae poffibi·
+les: ordinatae vero PM& i³M eundem habeant numerum crurum ῃ
+
+utrinque punita Μ & M jacentium, tum jacet inter punsta M te M ’
+ovalis.
+
+COROLLARIUM IV.
+Sit punitorum numerus, in quibus duo, tria, quatuor &u coeant s
+
+respestive (m,r, s, διε.) &N vel = ,li m÷r÷s÷t÷ {··{,s1s1t
+
+integer numerus, vel integer numerus ei proxime superior, s1 modo
+srt surda quantitas vel frastim tum dimensiones curva, in qua inclu-
+
+duntur haec punsta, non possunt esse minores quam
+
+less÷m÷2r÷3s÷4t÷oco
+
+Et fic de ovalibus. N
+
+PR OB. IV.
+Datei aquatione ι
+
+Ay''-{-c'assb}y'·¹÷c÷dx÷ex¹y”·¹÷&c.zo.
+
+relationem inter absciffam (x) ὃ ejus ordinatas (y), exprimente, in·
+
+venire aequationem relationem inter quascunque duas alias lineas quocunqne
+
+modo ex iis derivatas exprimentem. ,
+
+inveniantur aquationes relationem inter abscissam, ordinatas & li-
+
+neas, inter quas requiritur relatio, exprimentes, transformentur ha
+aquationes in unam, ita ut exterminentur omnes prater eas lineas, -
+
+inter quas requiritur relatio, incognitae quantitates, ὅσ fit problema.
+
+Ex·
+
+ 
+

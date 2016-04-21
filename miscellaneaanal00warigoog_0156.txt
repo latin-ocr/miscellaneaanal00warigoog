@@ -1,0 +1,54 @@
+Ι ¹32 MISGELLANEA
+
+,carru
+
+’ DERI.
+
+INEAE fluxionales‚ secundum ordines fluxionum adnationir,
+
+quii relatio inter abscissas bc ordinatas definitur, distinguuntur
+in ordines ; ea linea est primi fluxionaiis ordinis, in cuius aequatione
+relationem inter ejus abscissas &ordinatas exprimente, continentur,
+solummodo fluxiones primi ordinis, dc fic deinceps.
+
+DEF.n
+
+fluxionales lineae ejusdem ordinis, secundum dimensiones aequatio·
+nis, quii exprimitur relatio inter abscissas (x) )& ordinatas (ι), simodo
+pro fluxione abscissae (ii), uel ordinatae (γ’), scribatur x dr y resperiive,
+br pro (ie) vel ( y) scribatur x 1’νείγς ·& sic deinceps, distingui pos·
+
+sunt iri dimensiones.
+P R O Β. 1.
+
+¹58· 50· Datastuxionali aquatione relationem inter absciffam (ΑΡ, x) ss aar
+
+ordinatas (PM, y) exprimente, eam in alteram transformare, relationem
+
+inter absciffam (ap,z) ἐν’ ejia correspondentes ordinatas (p mm) capri-
+mentem.
+
+Substituantur pro abscissa (x), br ejus ordinatis (y), eaedem quan-
+
+titates, quae in problemate primo substituta fuerunt, dr pro absciffae
+(x x) oc ordinatarum (y) fluxionibus substituantur praedidtarum quaii-
+
+citatum correspondentes fluxiones, dc transformatur aequatio in al-
+
+teram, relationem inter abscissam (ap) dr ejus ordinatas( ()pm expri-
+
+mentem
+ΤΗΕΟ
+
+Harum curvarum multae sunt proprietates algebraicarum curva-
+rum proprietatibus analogae, quae per methodum convergentium sei,
+rierum, erui u demonstrari possunt. ,
+
+EXEMPLUM L
+
+Sit fluxionalis curva (n) dimensionum, br ducanturduaeredbae, sibi
+ipsis parallelae, dc curvam secantes in (n) pundiis 3. linea, quae ita se-
+(fit
+
+ 
+

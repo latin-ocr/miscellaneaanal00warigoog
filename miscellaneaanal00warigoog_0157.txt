@@ -1,0 +1,59 @@
+. ANALYTICn ' mg·
+Ι cat has patallelas, ut summa partium ex uno secantis latere, aequa.
+lis fit summae partium ⁴eii altero secantis latere, eodem modo secabit
+
+omnes alias his parallelas.
+
+CORL
+
+' Rejiciantur omnes datae fluxionalis aquationis termini, iis excep·
+
+tis, in quibus inveniuntur n dc n-r dimensiones, aequationis re· ·
+
+sultantis inveniatur fluens, quae sit algebraica curva, dc diameter hu-
+
+„ , jus algebraicae curvae erit etiam fluxionalis curva diameter, dc vice
+¹ i'iersa. ·
+
+couti
+
+Sint (n) asymptoti fluxionalis curvae, cujus numerus dimensionum
+est (n), dc agatur reita linea, curvam in (n) punitis secans, tuni
+
+istius- lineae summa partium, inter crura curvae oc eorum respestivas
+¹ asymptotos interceptarum, ex uno} diametri latere, aequalis est sum-
+mae partium inter curvae crura, dt eorumrespcdiivas asymptotos inter
+ceptorum, ex altero diametri lateret
+
+EXEMPLUMtu
+¹ Dat& fluxionali curvi, in quai nulli inveniuntur termini (ii-i) di·
+mensionum, &generale centrum habet curva.
+
+Eodem modo progredi licet in cuivas, omnes suas diametros pa· ’
+
+rallelas habentes. , ,
+ΕΧΕΜΡΕΨΜῙΠ
+Sint omnes ordinatae dimensiones in datii fluxionali aquatione,
+
+pares; dt correspondentes ordinatae naiores, ἃ Ιειὲῑίτιῐιῑιϊὶνί dt nega-
+eiii, erimt inter se aequales, .
+
+exemptione iv,
+
+Facilee methodo convergentium serierum erui potest, quot sunt
+crura parabolica, hyperbolicave ς, pendent enim e terminis datae ae-
+qiiationis, quorum dimensiones sunt maxima, dc inveniri poffunt
+
+eidem methodo, quai parabolica vel hyperbolica algebraicae curvae
+
+crura.
+P R O Β. ΙΙ.
+
+Παίᾶ fluxionoli aquatione relationem inter obfciffoot (x), iti ejus cor-
+respondentes ordinatas (y) exprimente, inuenire absciffies Gi ordinatos,
+
+quondo detentores ordinotaefiunt intense aquales. I
+ῃ.
+
+ 
+

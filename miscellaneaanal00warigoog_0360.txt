@@ -1,0 +1,49 @@
+ALGEBRAICAE. 121
+
+Paulo aliter resolvi potest hoc exemplum. Qoniatn per hypo-
+thesrn summa duarum radicum est 7, pro (x) scribantur respestive
+v δι 7- v, resultant duae aequationes v4 - v3 - 24v² 4- 4v -ι- 80
+= 0, & v4-27v3-t-249u2-893v-r-990=0. Harum duarum
+aquationum communis divisor erit radix quaesrta.
+
+Ex. 2. Sit data aequatio scs-t· qx4-rx3 -t- sx2-tx -t- v == o, &a
+aequatio exprimens relationem inter tres datae aequationis radices
+,πθ † ax -b= o: dividatur prior aequatio per posteriorem, i. e.
+
+x³÷ax-b)x⁶÷qx4-rx³rsx2-tx÷v)x³÷q‡-‘bx÷b-r
+
+ι--υ--ι--ιο
+
+resrduum erit s—qa÷a²x²÷bq—t÷ra-zbax÷b2-br-r-v.
+
+E methodo inveniendi communem divisorem sequitur nullum else
+communem divisorem horum trium residui terminorum s—,qa-l-a2
+zo, &bq-t÷ra-2ba=o, &b2-br÷v=o; δι consequen·
+ter datam aequationem nullas habere dati generis radices, ni q2v-
+qrt÷r²s-4sv-l-t²=o: sivero q2o-qrt-r-r2s-.4sv÷t²=o‚
+
+tum aequationes quaesrtae erunt x3 4- elffii-:M- gqlx - {r 4
+affl: o, dc x3 -
+
+elff-''s-sqx-—n-tsfrss‘ioeo.
+Si vero v=o; tum aequationes quaefitae erunt
+
+x³÷d}q3Ts÷{qx-r=o, dc κΰ-κῘξ-ᾆῖῙ-Ῑ-ξᾳκεο.
+
+Cor. 1. Sint plures (n) aequationes quam incognitae (m) quantita·
+tes, e praedislis (n) aequationibus inveniantur (n-m) independentes
+aquationes A = o, B = o, C: o, dcc. quae solummodo unam incog-
+nitam quantitatem (x) involvant3 e quibusque (m) praedistis aequa·
+tionibus inveniri potest aequatio, cujus radix est κς tum inveniatur
+maximus communis divisor quantitatum A, B, C, &c.; qui fit P ς tot
+(h) possunt elle datae sormulae aquationes, quot diversos valores (a,
+β, γ, d, dec.) habet incognita quantitas (x), quae fit radix communis
+divisoris P = ος ni duas, vel tres, vel plures radices aequalcs habeat
+praedisla incognita quantitas (x), in quo casu forsan possunt ell'e h-t-r,
+h÷ 2, vel plures datae formulae aquationes. Omnis valor (a) cujus-
+cunque incognitae quantitatis (a) habet unum solummodo valorem e
+
+Q ι lingulis
+
+ 
+

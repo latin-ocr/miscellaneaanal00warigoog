@@ -1,0 +1,50 @@
+ALGEBRAICAE ψῃ
+
+arithmeticas quidem sed alias quasdem ; quarum terminorum differen-
+tiae secunda, tertiae, &c suntin arithmetici progressione.
+
+Eodem modo transformetur data aequatio in aliam, cujus radices
+sint quacunque rationalis fundtio datae aequationis radicum, exinde
+inveniri possunt rationales quadr'atici, cubici, &c divisores quaesiti.
+
+Inveniendi divisorem quantitatis, quae unam solummodo continet
+literam, eadem erit methodum ac aequationis unam solummodo in· .
+cognitam quantitatem habentis. '
+
+4. Datis quantitate duas vel plures incognitas quantitates invol-
+vente; invenire utrum ea ullum recipiat divisorem, necne. ·
+
+ιω. Supponantur omnes quantitates praeter unam nihilo aquales,
+&inveniantur divisores quantitatis resultantis ; deinde supponan-
+tur omnes praeter duas incognitae quantitates nihilo aequales, ὅσ in-
+veniantur divisores quantitatis resultantis; bc src de reliquis: vel
+aliter, collocentur singuli datae quantitatis termini juxta dimensiones
+“ cujussibet literae (y), δι inveniantur divisores ejus ultimi termini; &r
+substituantur pro (y) quilibet numeri - 2, — r, o, 1, 2, &c δι ex-
+inde per praecedentes methodos inveniri possunt divisores quaesrti.
+
+Si plures slnt quam duae incognitae quantitates, tum solummodo
+pluries repetenda est operatio: singula enim operatio unam destruet·
+incognitam quantitatem.
+
+2⁶⁰. si vero sradliones contineantur indari quantitate; turn singuli
+termini datae quantitatis reducendi sunt in communem denominato·
+rem; &divisores δε numeratoris & denominatoris quarendi sunt: ti-
+
+vero irrationales termini in dart quantitate contineantur ς pro fingu- ⁸
+
+lis diversis irrationalibus terminis substitue diversas literas, & per
+' precedentem methodum inveniendi divisores quantitatis duas vel plu-
+res incognitas quantitates involventis saepe erui poliunt divisores quae·
+sni.
+
+5.. Ex formulis fraslionum vel irrationalium quantitatum indata
+
+vel datis aquationibus ‘contentarum saepe acquiri possunt formulae.
+integrorum numerorum vel rationalium frastionum in iis contenta-
+
+rum. e. g. sit aequatio κ’ 4- a·vr'·' ·l- :ssd-*23¹ -t- &e = ος in hqrc·
+ea u,
+
+ 
+

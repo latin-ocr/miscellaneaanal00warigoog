@@ -1,0 +1,48 @@
+ΔΑΕΘΕΒΚΑΙΟΕ. gv ³
+
+problema e redudtione plurium aquationum in unam, ita ut intog·
+
+nitae quantitates exterminentur. ·
+2. si vero algebraica relatio haud solummodo consistat inter cor.
+
+respondentes rationales radices incognitarum quantitatum, sed invol· .
+vat vel diversas rationales radices ejusdem incognitae quantitatis vel
+
+rationales haud correspondentes radices e diverfis incognitis quanti·
+tatibus: inveniatur relatio rnter quascunque diversas radices rncog- .
+nitarum quantitatum, quae semper inveniri potest, cum detur gene·
+ralis methodus detegendi unam radicem3 methodus enim ,quae gene·
+- taliter inveniat unam radicem, etiam plures (st modo plures sint) ra·
+dices deduceret. ,
+
+Ita reducantur aquationes resultantes in unam ut exterminentur
+incognitae quantitates, dc lit problema.
+
+3. Si vero haud inveniri poffit relatio inter diversas praedie‘las ra-
+·. dices, tum solummodo e continuis approximationibus, correctionibus
+
+dt conjedluris progredi liceat
+
+Et src de summis e singulis integris valoribus fundionum praedi·
+storum generum, ita ut hae summae liant quantitates dati generis,
+dc de transformandis pluribus hujusce generis aquationibus.¹
+
+PR OB. LXlll.
+
+Datis quibuscunque quantitatibus uel numeris, ex iis fumare dati ge-
+neris quantitates.
+
+Allumantur quaedam· ex his quantitatibus, δι ex iis inveniantur
+quantitates resultantes: st vero ex his quantitatibus haud formentur ⁵
+quantitates dati generis; continuo corrigantur vel approximentur,
+usque donec ad veros valores perventum est
+
+Ex. Sint quantitates datae omnes cubi numeri, &quantitas datr '
+generis quadratus numerus; requiratur invenire cubum numerum,
+qui additus omnibus suis partibus aliquotis conficiat quadratum.
+
+Allumantur multi cubi numeri minimi, dc inveniantur aggregata
+Bbb · , ’ estn-
+
+ 
+

@@ -1,0 +1,52 @@
+·8a' MtscELLANsA
+
+EXEMPLUM ΙΙ.
+Transformare unam curvam in alteram. Sint (x, y, z, v ς) duae ab·
+scissae ee earum ordinate curvae transformanda be requisitae.
+1¹⁰⁰ Dentur tres aquationes relationem inter abscissam bt ordinatas
+datae curve, br abscissas &ordinatas datae be requisrtae curvae, tres igi-
+tur sunt aquationes, quatuor incognitas quantitates habentes, qui·
+busin unam reductis, ita ut exterminentur incognite quantitates,
+resultat aequatio relationem inter abscissam &ejus ordinatas requisrtae
+curvae exprimens.
+' Ex. gr. Sit data aequatio relationem inter abscissam (x) be ejus cor-¹
+respondentes ordinatas (y) exprimens, br requisitae curvae srt abscissa
+(z) bt ejus ordinata (y), turn fit
+pz÷qv÷r
+κ ² Az÷sv÷c
+Pz÷sv÷R
+y Ξ A z -l- Β v -l- c
+loribus in dart aequatione substitutis, resultat aequatio relationem in·
+ter novam abscissam (z) bt ejus ordinatis (v), exprimens, cujus di-
+
+quibus quantitatibus pro suis va· ·
+
+. mensiones aequales sunt datae aquationis dimensronibus.
+
+Data aequatione curvae, invenire aequationem omnium curvarum
+date fimilium. ·
+. Pro abscissa be ordinatd (x δι y) substituantur respestive nz be nu
+
+tc fir. ·
+
+Invenire, quando ordinata* in una curvi sunt in datri ratione ad
+ordinatas in alteria.
+
+Substitu'atur pro abscissa sc ordinatai, mz bc nv be fit.
+
+si geometrice requiritur hoc problema perficere, tum solummodo
+requiritur construetio.
+
+2⁸⁰ Datis duabus aquationibus relationes inter duas abscissas& ee·
+rum correspondentes ordinatas exprimentibus, ἂ tertiis aequatione-
+relationem exprimente inter abscissas δι ordinatas duarum curvarum, ·
+invenire aquationem relationem inter duas veltres ex'incognitis'
+quantitatibus, duabus abscislrs δι earum correspondentibus ordinatis:
+
+Hoc fit ex redustione aquationum in unam, ita ut incognita quan·
+
+titates exterminentur.
+C 01³„
+
+ 
+
